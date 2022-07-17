@@ -1,0 +1,13 @@
+#hero {
+  position: relative;
+  text-align: center;
+}
+
+#hero .plan {
+  position: absolute;
+  top: 91.6%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 80%;
+  z-index: 2;
+}
